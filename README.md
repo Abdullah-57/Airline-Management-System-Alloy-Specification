@@ -60,7 +60,7 @@ The model includes:
 - `check` commands to verify assertions
 
 ## Getting Started
-1. Install [Alloy Analyzer](http://alloytools.org/).
+1. Install [Alloy Analyzer](http://alloytools.org/) or go to FM Playground (https://play.formal-methods.net).
 2. Open `AirlineManagementSystem.als`.
 3. Run predicates to generate system instances.
 4. Use `check` commands to verify assertions and invariants.
