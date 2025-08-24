@@ -1,16 +1,6 @@
 # Airline Management System (Alloy Model)
 
-This repository contains the **Alloy model for an Airline Management System** developed for the **Formal Methods in Software Engineering** course. The system models flight scheduling, pilot assignments, passenger bookings, airplane maintenance, and enforces a set of structural, logical, and business rules using Alloy.
-
-## Table of Contents
-- [Overview](#overview)
-- [System Features](#system-features)
-- [Alloy Model Structure](#alloy-model-structure)
-- [Constraints and Assertions](#constraints-and-assertions)
-- [Predicates and Commands](#predicates-and-commands)
-- [Getting Started](#getting-started)
-- [Group Members](#group-members)
-- [License](#license)
+This repository contains the **Alloy model for an Airline Management System**. The system models flight scheduling, pilot assignments, passenger bookings, airplane maintenance, and enforces a set of structural, logical, and business rules using Alloy.
 
 ## Overview
 The Airline Management System models airline operations, ensuring:
@@ -65,7 +55,7 @@ The model includes:
 3. Run predicates to generate system instances.
 4. Use `check` commands to verify assertions and invariants.
 
-## Group Members
+## Contributors
 - Abdullah Daoud – 22I-2626  
 - Usman Ali – 22I-2725  
 - Faizan Rasheed – 22I-2734  
